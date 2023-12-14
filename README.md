@@ -28,7 +28,7 @@ Upon every selection, a logger hooked up to the main boards UART pins receive wh
 * Kingston Canvas Select Plus MicroSDHC 32 GB
 * 16 MHz crystal oscillator - x2
 * 10K ohm resistors - x4
-* 22pF capacitor - x4
+* 22pF capacitor - x4 
 * Blue LED - x2
 
 #### Main board
@@ -41,8 +41,6 @@ Upon every selection, a logger hooked up to the main boards UART pins receive wh
 
 #### Receiver 
 * ATMega328
-* SH1106 128x64 I2C OLED
-* 16 MHz crystal oscillator
 
 ### Software Resources:
 * [avr-libc](https://www.nongnu.org/avr-libc/user-manual/modules.html)
