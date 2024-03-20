@@ -14,7 +14,7 @@ The main board (ATMega328P) acts like a "control panel" that displays three menu
 
 Upon every selection, a logger hooked up to the main boards UART pins receive what has been selected and records the process. The microSD/SD breakout board is connected to the SPI pins. Its purpose is to read the contents of files.
 
-***NOTE: The microSD/SD breakout board is optional as it is still a work in progress.***
+~***NOTE: The microSD/SD breakout board is optional as it is still a work in progress.***~
 
 ## Resources
 * [Photopea for UI design](https://www.photopea.com/)
